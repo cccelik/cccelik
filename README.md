@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hi there! I'm Çelik Yücel, a Computer Science student at the Technical University of Munich (TUM), currently finishing my Bachelor’s degree and starting my Master’s in Computer Science next semester.<br><br>My academic focus combines computer science and medicine — my application subject is Medicine, and I’m passionate about applying computational methods to improve medical imaging and diagnostic procedures.<br><br>I’m currently working on my Bachelor’s project, DICOM-Metadata-Browser, which involves developing tools for analyzing and visualizing DICOM metadata to support medical imaging research and data quality analysis.<br><br>I enjoy building software that bridges the gap between data science, healthcare, and simulation, and I’m especially interested in:<br><br>Medical Imaging & DICOM Data<br><br>Simulation and Computational Modeling (C++, Python)<br><br>Data Quality, Processing, and Visualization<br><br>High-Performance & Scientific Computing<br><br>Outside of research and coding, I’m curious about how AI and data-driven methods can help medical professionals make better, faster, and more reliable decisions.
+Hi there! I'm Çelik Yücel, a Computer Science M.Sc. student at the Technical University of Munich (TUM) with a strong interest in machine learning, medical imaging, and scientific software development.
+
+My work focuses on applying computational methods to real-world problems at the intersection of healthcare and technology. During my Bachelor's thesis, I developed the DICOM-Metadata-Browser, a platform for efficient extraction, storage, and analysis of medical imaging metadata, supporting large-scale PET/CT research and data quality assessment.
+
+I have experience developing software across the full stack, from backend data-processing pipelines and scientific computing applications to mobile apps and user interfaces. I enjoy combining software engineering, data analysis, and modern AI techniques to create practical solutions for complex problems.
+
+Areas that particularly interest me include:
+
+- Medical Imaging & Healthcare AI
+- Machine Learning & Computer Vision
+- Scientific Computing & Simulation
+- Data Engineering & Visualization
+- Mobile & Cross-Platform Development
+- High-Performance Software Systems
+
+I'm always excited to work on projects where technology can create measurable real-world impact, especially in healthcare, research, and AI-driven applications.
 
 
 ## 🌐 Socials:
